@@ -159,8 +159,8 @@ aside a.button {
 #main-content a.button {
   width: 138px;
   display: block;
+  margin: 20px auto;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
-  margin-bottom: 20px;
   font-size: 21px;	
 }
 
